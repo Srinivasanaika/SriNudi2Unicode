@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SriNudi2Unicode",
+  "description": "A smart converter that transforms legacy Nudi (ASCII) encoded text into standard Kannada Unicode using the power of Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
